@@ -4,7 +4,7 @@ Creates Array of 2d Coordiantes from multidimensional data.
 
 # Installation
 
-'npm i Kibusch_Pointcloud --save'
+'npm i Kibusch_Pointcloud'
 
 # How to use it
 
