@@ -26,4 +26,4 @@ var pca = PCA_simple(data, labels, scale=true, maxValue=500);
 # Options 
 
 * *scale* - _boolean_ (Defaults to true)
-* *scale* - _float_ (Defaults to 500)
+* *maxValue* - _float_ (Defaults to 500)
