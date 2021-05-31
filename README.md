@@ -10,7 +10,7 @@ Creates Array of 2d Coordiantes from multidimensional data.
 
 
 ```
-import {pca_simple} from 'Kibusch_Pointcloud';
+import {pca_simple} from 'kibusch_pointcloud';
 
 
 var data = [[1,2,3,4],[1,2,3,4],[1,2,3,4]];
